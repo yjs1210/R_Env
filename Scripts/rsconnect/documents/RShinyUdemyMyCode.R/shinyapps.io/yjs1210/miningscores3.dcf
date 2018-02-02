@@ -1,0 +1,11 @@
+name: miningscores3
+title: miningScores
+account: yjs1210
+server: shinyapps.io
+appId: 197601
+bundleId: 906873
+url: https://yjs1210.shinyapps.io/miningscores3/
+when: 1500340724.93669
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Advanced Shiny App.R|BackTesting Retrace Strategy.R|Rshiny Easy UI.R|Rshiny Example App.R|ShinyUdemyCourseSolution.R

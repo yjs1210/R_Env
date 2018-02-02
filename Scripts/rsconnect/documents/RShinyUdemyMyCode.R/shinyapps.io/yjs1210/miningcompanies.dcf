@@ -1,0 +1,11 @@
+name: miningcompanies
+title: MiningCompanies
+account: yjs1210
+server: shinyapps.io
+appId: 197602
+bundleId: 906881
+url: https://yjs1210.shinyapps.io/miningcompanies/
+when: 1500341099.86383
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Advanced Shiny App.R|BackTesting Retrace Strategy.R|Rshiny Easy UI.R|Rshiny Example App.R|ShinyUdemyCourseSolution.R

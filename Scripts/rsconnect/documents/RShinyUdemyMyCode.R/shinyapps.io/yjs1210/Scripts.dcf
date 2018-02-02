@@ -1,0 +1,11 @@
+name: Scripts
+title: Scripts
+account: yjs1210
+server: shinyapps.io
+appId: 197594
+bundleId: 906848
+url: https://yjs1210.shinyapps.io/Scripts/
+when: 1500339494.11659
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Advanced Shiny App.R|BackTesting Retrace Strategy.R|Rshiny Easy UI.R|Rshiny Example App.R|ShinyUdemyCourseSolution.R
